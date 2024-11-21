@@ -11,7 +11,11 @@ module.exports = {
       dance:["var(--font-dance)"],
       robot:["var(--robot)"],
       rale:["var(--font-rale)"]
-    }
+    },
+    colors:{
+      pri:"#0891b2",
+      sec:"#1ad4f5",
+      },
     },
   },
   plugins: [],

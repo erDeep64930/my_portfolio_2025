@@ -1,4 +1,4 @@
-import localFont from "next/font/local";
+// import localFont from "next/font/local";
 import "./globals.css";
 import {Dancing_Script , Raleway , Roboto} from "next/font/google";
 const robot = Roboto({
@@ -24,6 +24,9 @@ const rale = Raleway({
 export const metadata = {
   title: "React | Data Scientist",
   description: "React Developer && Data Scientist ",
+  icons: {
+    icon: "/favicon.png",
+},
 };
 
 export default function RootLayout({ children }) {
