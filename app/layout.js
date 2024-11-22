@@ -22,7 +22,7 @@ const rale = Raleway({
 
 
 export const metadata = {
-  title: "React | Data Scientist",
+  title: "Data Scientist | React Developer",
   description: "React Developer && Data Scientist ",
   icons: {
     icon: "/favicon.png",
