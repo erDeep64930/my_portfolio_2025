@@ -19,10 +19,10 @@ const MySkills = () => {
      <div className=" flex-1">
        <div className=" mx-auto">
          <h1
-           className="font-robot text-4xl font-semibold text-center">
+           className="font-robot text-4xl text-sec font-semibold text-center">
            My Web Development journey with these Tech stack:~
          </h1>
-         <p className="text-center font-rale text-sm lg:text-md mt-8 leading-6 tracking-wider">
+         <p className="text-center font-rale text-sm lg:text-md mt-8 leading-6 tracking-wider text-pri">
          As a Web Developer involves working with different programming languages, frameworks, and tools to build the front-end and back-end of websites, ensuring they are functional, visually appealing, and user-friendly. have expertise in various technologies such as HTML, CSS, JavaScript and React . On the back-end, I am familiar with server-side languages like Node.js and work with databases such as MongoDB
          </p>
          <Image src="/mernstack.png" alt="" width={180} height={70} className="ml-32 mt-6"/>

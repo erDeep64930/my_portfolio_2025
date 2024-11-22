@@ -4,6 +4,7 @@ import MyIntro from './myIntro/MyIntro';
 import MySkills from './mySkill/MySkills';
 import MyServices from './myServices/MyServices';
 import ContactMe from './contactMe/ContactMe';
+import ShowCase from './showCase/ShowCase';
 
 
 const HomePage = () => {
@@ -14,6 +15,7 @@ const HomePage = () => {
         <MySkills />
         <MyServices />
         <ContactMe />
+        <ShowCase />
 
 
       </Layout>
