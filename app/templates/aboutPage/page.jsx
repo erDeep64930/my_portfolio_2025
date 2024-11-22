@@ -1,10 +1,11 @@
 
 import React from 'react';
+import AboutTimeline from './aboutTime/AboutTimeline';
 
 const AboutPage = () => {
   return (
     <div>
-      about
+    <AboutTimeline />
     </div>
   );
 }
