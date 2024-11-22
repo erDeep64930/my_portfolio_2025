@@ -21,7 +21,7 @@ const EducationDetails = () => {
             }) => {
               return (
                 <div
-                  class="flex-col items-center font-semibold leading-4  transition px-5 py-2  border-b border-pri "
+                  className="flex-col items-center font-semibold leading-4  transition px-5 py-2  border-b border-pri "
                   key={id}
                 >
                   <div className="item-center bg-black/70 inline-block p-2 rounded-full">

@@ -8,10 +8,10 @@ const MyServices = () => {
     <div>
 
 <div className="relative w-11/12 max-w-[1080px] mx-auto pt-4">
-       <div className="  mt-24">
+       <div className="  mt-16">
    <Heading heading="Services"/>
   
-    <div className="container mx-auto">
+    <div className="container mx-auto mt-8">
       <div className="flex flex-col lg:flex-row gap-10 lg:mt-16">
        
        {

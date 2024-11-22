@@ -7,7 +7,7 @@ const MySkills = () => {
   return (
     <div className="relative w-11/12 max-w-[1080px] mx-auto pt-4 mt-16">
     <Heading heading="My Skill"/>
-        <div class="flex
+        <div className="flex
  items-center py-6 md:py-12 flex-col md:flex-row px-7 md:px-0">
   
  {/* <!--left section --> */}
@@ -17,7 +17,7 @@ const MySkills = () => {
 
      {/* <!-- right section --> */}
      <div className=" flex-1">
-       <div class=" mx-auto">
+       <div className=" mx-auto">
          <h1
            className="font-robot text-4xl font-semibold text-center">
            My Web Development journey with these Tech stack:~

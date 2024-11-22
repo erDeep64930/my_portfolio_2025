@@ -1,10 +1,11 @@
 import React from 'react';
+import Layout from '../components/layout/Layout';
 
 const page = () => {
   return (
-    <div>
+    <Layout>
       skills
-    </div>
+    </Layout>
   );
 }
 

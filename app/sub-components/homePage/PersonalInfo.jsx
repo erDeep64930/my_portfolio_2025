@@ -9,7 +9,7 @@ const PersonalInfo = () => {
             <div className="mb-2">{
                 infoMenu.map(({id,title,description})=>{
                     return (
-                        <div class="flex items-center font-semibold leading-4  transition px-5 py-2  border-b border-pri " key={id}>
+                        <div className="flex items-center font-semibold leading-4  transition px-5 py-2  border-b border-pri " key={id}>
 
                         <span className="text-pri text-sm font-robot"> {title}</span>
                         <span className="text-pri ml-2">:</span>
