@@ -1,5 +1,5 @@
-import React from 'react';
-import Testimonial from './testimonial/Testimonial';
+import React from "react";
+import Testimonial from "./testimonial/Testimonial";
 
 const ContactPage = () => {
   return (
@@ -7,6 +7,6 @@ const ContactPage = () => {
       <Testimonial />
     </div>
   );
-}
+};
 
 export default ContactPage;
