@@ -45,6 +45,7 @@ const RotatedAppSkill = () => {
                                     width={app.width}
                                     height={app.height}
                                     alt={app.title}
+                                    
                                    
                                 />
                             </div>

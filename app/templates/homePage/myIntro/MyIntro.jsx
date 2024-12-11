@@ -9,7 +9,7 @@ import PersonalInfo from "@/app/sub-components/homePage/PersonalInfo";
 const MyIntro = () => {
   return (
     <div>
-      <div className="relative w-11/12 max-w-[1080px] mx-auto pt-4 mt-16">
+      <div className="relative w-11/12 max-w-[1080px] mx-auto pt-4 mt-16 ">
         <Heading heading="MyIntro" />
         <div className=" w-full space-y-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-16 justify-between">
           {/* this is for who i am */}
