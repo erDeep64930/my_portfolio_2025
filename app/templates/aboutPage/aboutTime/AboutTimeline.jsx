@@ -2,8 +2,12 @@ import React from "react";
 
 const AboutTimeline = () => {
   return (
-    <div>
+    <div className="mt-32">
+         <h1 className="text-3xl mt-34 font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r dark:from-white from-[#383127] to-[#90867D] dark:to-neutral-700 text-center ">
+           Frontend  Powerhouse <br /> Made by Deepak
+          </h1>
       <div className="h-screen w-full flex justify-center items-center mt-40">
+   
         <div className="max-w-5xl mx-auto w-full grid grid-cols-9 px-2">
           {/* <!-- Stack 1 --> */}
           <div className="col-span-4 w-full h-full ">
