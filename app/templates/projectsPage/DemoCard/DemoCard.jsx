@@ -14,7 +14,7 @@ const DemoCard = () => {
         <div className="mt-3">
           <a href="#">
             <h2 className="block text-xl font-semibold text-gray-700 hover:text-blue-500 transition font-roboto ">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.hello from the top university.
             </h2>
           </a>
 
