@@ -5,6 +5,7 @@ import SkillPage from '../templates/skillsPage/page';
 const page = () => {
   return (
     <Layout>
+
       <SkillPage />
     </Layout>
   );
